@@ -2,25 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://sip.la.psu.edu/people/sva5811/'>PhD candidate in Spanish and Visual Studies</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Spanish, Italian and Portuguese </p>
+    <p>Penn State University</p>
+    <p>Office: 48 Burrowes, cube 6 </p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Sara Arribas Colmenar is PhD candidate in Spanish and Visual Studies that currently serves as a Graduate Research Assistant of Digital Liberal Arts at the Digital Pedagogies and Initiatives Office (https://digital.la.psu.edu/ ). Holding a BA in Classical Philology from Universidad Complutense de Madrid, she also completed a Master’s in Classics and  has  been a Member of the Seminario Complutense de investigación en Historia y Teoría de la danza (https://www.ucm.es/seminariohtdanza/) thanks to her Elemental Degree in Spanish Dance recognized by A.P.D.E (Asociación de Profesores de Danza Española).
+Sara is deeply engaged in research on dance and Spanish theater during the XX century, particularly focusing on the concept of the new women in movement and the reception of the public. Her work primarily involves the textual choreographies of Ramón Gómez de la Serna, exploring the intellectual circuits surrounding key figures such as Federico García Lorca, Los Sierra, and Tomás Borrás. Additionally, she is actively developing a digital project on social media networks using gephi.org This project aims to demonstrate the interconnectedness of dance and literature through the exploration of personal relationships among choreographers, musicians, set designers, and literary figures of the time.
