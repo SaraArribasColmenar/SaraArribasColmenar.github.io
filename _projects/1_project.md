@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Dancing with Literature: The Social Networks of Shows and Intellectual Circuits in Spain (1911-1933)
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
