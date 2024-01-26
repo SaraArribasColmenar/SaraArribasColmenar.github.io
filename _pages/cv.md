@@ -9,7 +9,7 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 toc:
   sidebar: left
 ---
-## Education
+title: Education
 
 `2020-Present` 	**Dual Ph.D. candidate in Spanish and Visual Studies**, Department of Spanish, Italian, and Portuguese, Penn State University, USA
  Supervisor: Dr. Matthew Marr
