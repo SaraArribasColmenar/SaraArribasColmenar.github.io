@@ -1,10 +1,8 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Sara Arribas Colmenar
       value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
     - name: Languages
       value: English, German
 
