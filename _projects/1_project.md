@@ -1,20 +1,21 @@
 ---
 layout: page
-title: Dancing with Literature: The Social Networks of Shows and Intellectual Circuits in Spain (1911-1933)
-description: Digital Social Networks
-img: assets/img/12.jpg
-importance: 1
-category: work
-related_publications: true
+title: project 1
+description: a project with no image
+img:
+importance: 4
+category: fun
 ---
 
-As part of my doctoral dissertation, “Dancing with Literature” explores the personal connections among literary figures such as Ramón Gómez de la Serna or Federico García Lorca,  choreographers like Antonia Mercé, set designers like Salvador Bartolozzi, and musicians such as Manuel de Falla. The main objective is to demonstrate that the worlds of dance and literature were intricately connected through personal relationships. This connection explains phenomena like dance librettos being written by authors like María Martínez Sierra and textual choreographic pieces by Ramón Gómez de la Serna. To visualize these digital social networks and analyze the intellectual circuit, I use gephi.org. The initial database focuses on participants in events such as the Concurso del Cante Jondo, literary gatherings at Café del Pombo and, together with 20 premiered dance pieces. This database will be amplified with the correspondence, dance and theater companies of the time like Teatro del Arte by Gregorio Martínez Sierra or Ballet Espagnols by Antonia Mercé. In short,  this project aims to illustrate and analyze the social networks shaping the cultural landscape of early 20th-century Spain.
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
-    title: Dancing with Literature: The Social Networks of Shows and Intellectual Circuits in Spain (1911-1933)
+    title: project
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
@@ -42,8 +43,8 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
+You can also put regular text between your rows of images.
+Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">
@@ -77,3 +78,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+
