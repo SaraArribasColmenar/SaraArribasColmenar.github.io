@@ -4,7 +4,7 @@
     - name: Sara Arribas Colmenar
       value: Sara Arribas Colmenar
     - name: Languages
-      value: English, German
+      value: English, Portuguese, Latin and Greek
 
 - title: Education
   type: time_table
@@ -16,34 +16,29 @@
       institution: Universidad Carlos III de Madrid, Spain
       year: 2020
       description:
-        - Description 1.
-        - Description 2.
     - title: Master’s Degree in Classical Philology
       institution: Departmento de Filología Clásica, Universidad Complutense and Universidad Autónoma de Madrid, Spain.
       year: 2019
       description:
-        - Description 1.
-        - Description 2.
+      - title: Bachelor's Degree in Classical Philology
+      institution: Departmento de Filología Clásica, Universidad Complutense de Madrid, Spain.
+      year: 2018
+      - title: Elemental Degree in Spanish Dance
+      institution: A.P.D.E (Asociación de Profesores de Danza Española)
+      year: 2012
 
-- title: Experience
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Instructor of record of Spanish 353 (topics of Spanish Culture)
+      institution: Department of Spanish, Italian, and Portuguese, Penn State University.
+      year: FALL 2023
+      description: Taught and created syllabus focused on Spanish Visual Culture including new technologies in the educational process such as Jamboard, Canva or Story Map.
+      
+    - title: Faculty leader at the Penn State Summer Ronda Study Abroad Program
+      institution: Department of Spanish, Italian, and Portuguese, Penn State University.
+      year: SUMMER 2023
+      description: Worked collaboratively with other directors to design a high-impact and immersive study abroad program including homestay and cultural experiences. Taught and creation of upper-level course with experiential learning components: implement of visual studies, cultural excursions, historical tours, on-site student-led discussions using Jamboard as support, guidance for the development of visual projects with the use of new technologies such as Canva or Story Map, all related to course content.
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
