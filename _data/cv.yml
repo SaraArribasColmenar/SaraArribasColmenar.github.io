@@ -1,45 +1,53 @@
 - title: General Information
   type: map
   contents:
-    - name: Sara Arribas Colmenar
-      value: Sara Arribas Colmenar
+    - name: Full Name
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
     - name: Languages
-      value: Spanish, English, Portuguese, Latin, Greek
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: Dual PhD  in Spanish and Visual Studies 
-      institution: Penn State University
-      year: 2020
-    - title: Master’s Degree in Teaching Spanish as a Foreign Language
-      institution: Universidad Carlos III de Madrid, Spain
-      year: 2020
-    - title: Master’s Degree in Classical Philology
-      institution: Departmento de Filología Clásica, Universidad Complutense and Universidad Autónoma de Madrid, Spain.
-      year: 2019
-   - title: Bachelor's Degree in Classical Philology
-      institution: Departmento de Filología Clásica, Universidad Complutense de Madrid, Spain.
-      year: 2018
-   - title: Elemental Degree in Spanish Dance
-      institution: A.P.D.E (Asociación de Profesores de Danza Española)
-      year: 2012
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Instructor of record of Spanish 353 (topics of Spanish Culture)
-      institution: Department of Spanish, Italian, and Portuguese, Penn State University.
-      year: 2023
-      description: 
-      - Description 1.
-      - Description 2.
-    - title: Faculty leader at the Penn State Summer Ronda Study Abroad Program
-      institution: Department of Spanish, Italian, and Portuguese, Penn State University.
-      year: 2023
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-     - Description 1.
-     - Description 2.
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
+
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
       year: 1917-1933
