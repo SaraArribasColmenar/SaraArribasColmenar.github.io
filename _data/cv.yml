@@ -1,32 +1,29 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Sara Arribas Colmenar
+      value: Sara Arribas Colmenar
     - name: Languages
-      value: English, German
+      value: Spanish, English, Portuguese, Latin and Greek
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Dual PhD  in Spanish and Visual Studies
+      institution: Penn State University, USA
+      year: 2025
+    - title: Master’s Degree in Teaching Spanish as a Foreign Language
+      institution: Universidad Carlos III de Madrid, Spain
+      year: 2020
+    - title: Master’s Degree in Classical Philology
+      institution: Departmento de Filología Clásica, Universidad Complutense and Universidad Autónoma de Madrid, Spain
+      year: 2019
+    - title: Bachelor’s Degree in Classical Philology
+      institution: Departmento de Filología Clásica, Universidad Complutense de Madrid, Spain
+      year: 2018
+    - title: Elemental Degree in Spanish Dance
+      institution: A.P.D.E (Asociación de Profesores de Danza Española), Spain
+      year: 2012
 
 - title: Experience
   type: time_table
