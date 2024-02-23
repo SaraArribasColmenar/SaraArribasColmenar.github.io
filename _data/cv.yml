@@ -46,7 +46,8 @@
      - title: Graduate Research Assistant of Digital Liberal Arts
       institution: e Digital Pedagogies and Initiatives Office- Penn State University
       year: 2024
-      description: Collaborated on digital humanities projects, developing standardized workflows, and creating project documentation templates. Participated in workshops on digital methodologies, contributed to technology reviews, and enhanced skills in data curation and  DublinCore metadata standards. Moreover, creation of a personal digital project on the interconnections between dance and literature at the beginning of the 20th century in Spain by analyzing digital social networks with gephi.org
+      description: 
+      - Collaborated on digital humanities projects, developing standardized workflows, and creating project documentation templates. Participated in workshops on digital methodologies, contributed to technology reviews, and enhanced skills in data curation and  DublinCore metadata standards. Moreover, creation of a personal digital project on the interconnections between dance and literature at the beginning of the 20th century in Spain by analyzing digital social networks with gephi.org
 
 - title: Honors and Awards
   type: time_table
