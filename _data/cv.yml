@@ -37,31 +37,26 @@
       institution: Department of Spanish, Italian, and Portuguese, Penn State University, USA
       year: 2023
        description:
-        - Worked collaboratively with other directors to design a high-impact and immersive study abroad program including homestay and cultural experiences.Taught and creation of upper-level course with experiential learning components suc as implement of visual studies, cultural excursions, historical tours, on-site student-led discussions using Jamboard as support, guidance for the development of visual projects with the use of new technologies such as Canva or Story Map, all related to course content. 
+        -Worked collaboratively with other directors to design a high impact and immersive study abroad program including homestay and cultural experiences.Taught and creation of upper level course with experiential learning components suc as implement of visual studies, cultural excursions, historical tours, on-site student-led discussions using Jamboard as support, guidance for the development of visual projects with the use of new technologies such as Canva or Story Map, all related to course content. 
 
 
-- title: Research Experience
+- title: Open Source Projects
   type: time_table
   contents:
-     - title: Graduate Research Assistant of Digital Liberal Arts
-        institution: e Digital Pedagogies and Initiatives Office- Penn State University
-        year: 2024
-        description: Collaborated on digital humanities projects, developing standardized workflows, and creating project documentation templates. Participated in workshops on digital methodologies, contributed to technology reviews, and enhanced skills in data curation and  DublinCore metadata standards. Moreover, creation of a personal digital project on the interconnections between dance and literature at the beginning of the 20th century in Spain by analyzing digital social networks with gephi.org
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023
+    - year: 1921
       items:
-        - Lyday-Peavler Award for Departmental Service and Scholarly Excellence
-        - Department of Spanish, Italian, and Portuguese, Penn State University
-    - year: 2023
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
       items:
-        - Teaching Excellence Award in Spanish - Department of Spanish, Italian, and Portuguese, Penn State University. 
-    - year: 2022
-      items:
-        - The Jesús Díaz Award for Departmental Service and Scholarly Excellence
-        - Department of Spanish, Italian, and Portuguese, Penn State University
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
