@@ -6,7 +6,7 @@ subtitle: <a href='https://sip.la.psu.edu/people/sva5811/'>PhD candidate in Span
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sac_perfil.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Spanish, Italian and Portuguese </p>
