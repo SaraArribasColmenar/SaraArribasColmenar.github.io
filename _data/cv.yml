@@ -36,39 +36,8 @@
     - title: Faculty leader at the Penn State Summer Ronda Study Abroad Program
       institution: Department of Spanish, Italian, and Portuguese, Penn State University, USA
       year: 2023
-       description:
-        -Worked collaboratively with other directors to design a high impact and immersive study abroad program including homestay and cultural experiences.Taught and creation of upper level course with experiential learning components suc as implement of visual studies, cultural excursions, historical tours, on-site student-led discussions using Jamboard as support, guidance for the development of visual projects with the use of new technologies such as Canva or Story Map, all related to course content. 
-
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Dance and gender studies
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Modernisim
-      items:
-        - Description 1.
-        - Description 2.
+      description:
+        - Worked collaboratively with other directors to design a high impact and immersive study abroad program including homestay and cultural experiences.Taught and creation of upper level course with experiential learning components suc as implement of visual studies, cultural excursions, historical tours, on-site student-led discussions using Jamboard as support, guidance for the development of visual projects with the use of new technologies such as Canva or Story Map, all related to course content. 
 
 - title: Other Interests
   type: list
