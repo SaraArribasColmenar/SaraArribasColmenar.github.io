@@ -69,7 +69,6 @@
       institution: The Mark Program, UNIR (Universidad Internacional de La Rioja, Spain)
       year: 2019
 
-
 - title: Research Experience
   type: time_table
   contents:
@@ -84,6 +83,13 @@
     - title: Member of the Seminario UCM-CSIC de investigación en Historia y Teoría de la Danza
       institution: Universidad Complutense de Madrid and and CSIC (Centro Superior de Investigaciones Cientificas), Spain.
       year: 2020 - 2017
+- title: Conference Presentations
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - “Bailando por la corona. El uso político de la danza de Ana Bolena en La cisma de Inglaterra” at NeMLA 55th Annual Convention, Boston, March 6-10.
+        - “Baile de identidades. El uso de la danza como caracterización en La Flor de mi Secreto” at NeMLA 55th Annual Convention, Boston, March 6-10.
       
 - title: Other Interests
   type: list
