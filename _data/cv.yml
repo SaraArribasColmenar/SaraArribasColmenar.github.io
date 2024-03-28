@@ -68,6 +68,16 @@
     - title: Didactic Content Editor in The Mark Program
       institution: The Mark Program, UNIR (Universidad Internacional de La Rioja, Spain)
       year: 2019
+
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Graduate Research Assistant of Digital Liberal Arts
+      institution: Digital Pedagogies and Initiatives Office - Penn State University
+      year: 2024
+      description:
+        - Collaborated on digital humanities projects, developing standardized workflows, and creating project documentation templates. Participated in workshops on digital methodologies, contributed to technology reviews, and enhanced skills in data curation and DublinCore metadata standards. Moreover, creation of a personal digital project on the interconnections between dance and literature at the beginning of the 20th century in Spain by analyzing digital social networks with gephi.org.
     
 - title: Other Interests
   type: list
