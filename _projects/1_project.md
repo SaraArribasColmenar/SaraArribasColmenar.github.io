@@ -4,7 +4,7 @@ title: project 1
 description: a project with no image
 img:
 importance: 4
-category: fun
+category: Community
 ---
 
 Every project has a beautiful feature showcase page.
