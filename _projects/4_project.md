@@ -2,7 +2,7 @@
 layout: page
 title: Dancing wih literature:The Social Networks of Shows and Intellectual Circuits in Spain (1911-1933)
 description: a project with gephi
-img: 
+img: prueba en tonos pastel 1.png
 importance: 3
 category: work
 ---
@@ -12,6 +12,6 @@ As part of my doctoral dissertation, “Dancing with Literature” explores the 
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/prueba en tonos pastel 1.png
+    img: /assets/img/readme_preview/prueba en tonos pastel 1.png
     ---
 
