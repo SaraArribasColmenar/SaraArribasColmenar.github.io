@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 3
-description: a project that redirects to another website
+description: Dancing with literature: The Social Networks of Shows and Intellectual Circuits in Spain (1911-1933)
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
