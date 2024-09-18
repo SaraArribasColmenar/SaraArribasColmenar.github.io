@@ -5,7 +5,7 @@ description: A project with gephi
 img: /assets/img/prueba-en-tonos-pastel-1.png
 importance: 2
 category: work
-giscus_comments: true
+
 ---
 
 
