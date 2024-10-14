@@ -2,7 +2,7 @@
 layout: page
 title: Collaboration at the Digital Edition Las cartas de Busa
 description: carried out by the HD LAB of the IIBICRIT at CONICET
-img: assets/img/3.jpg
+img: assets/img/dibujo.jpg
 importance: 3
 category: work
 giscus_comments: true
