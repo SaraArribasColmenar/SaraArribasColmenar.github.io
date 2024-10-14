@@ -5,7 +5,6 @@ description: carried out by the HD LAB of the IIBICRIT at CONICET
 img: assets/img/dibujo.jpg
 importance: 3
 category: work
-giscus_comments: true
 ---
 
 The project **Las cartas de Busa** is a digital edition carried out by the HD LAB of the IIBICRIT at CONICET, Argentina. It focuses on digitizing and organizing the letters of Father Roberto Busa, a pioneer in computational linguistics, making them accessible to the public.
