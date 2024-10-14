@@ -11,4 +11,4 @@ The project **Las cartas de Busa** is a digital edition carried out by the HD LA
 
 I contributed by developing the code for the digitalization of some of the letters as part of the **Digital Humanities Certificate** from [UCES](https://www.uces.edu.ar/carreras-escuela-negocios/escuela-de-ciencias-de-psicologia-y-ciencias-sociales/diplomatura-humanidades-digitales).
 
-You can review the project [here](https://hdlab.space/cartas_busa/about.html).
+You can review the project [here](https://hdlab.space/cartas_busa/).
