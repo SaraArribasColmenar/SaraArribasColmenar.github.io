@@ -3,7 +3,7 @@ layout: page
 title: Bailando la literatura
 description: TimelimeJS
 img: assets/img/1.jpg
-importance: 3
+importance: 2
 category: work
 ---
 
