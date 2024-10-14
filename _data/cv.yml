@@ -166,7 +166,7 @@
     - year: 2024
       items:
         - "Recipient of Sparks Fellowship, Department of Spanish, Italian, and Portuguese, Penn State University."
-        - "Member of Phi Lambda Beta - The Sociedade Honorária de Língua Portuguesa. <a href='https://www.aatsp.org/page/philambdabeta' target='_blank'>https://www.aatsp.org/page/philambdabeta</a>"
+        - "Member of Phi Lambda Beta - The Sociedade Honorária de Língua Portuguesa.
     - year: 2023
       items:
         - "Lyday-Peavler Award for Departmental Service and Scholarly Excellence, Department of Spanish, Italian, and Portuguese, Penn State University."
@@ -175,7 +175,7 @@
       items:
         - "The Jesús Díaz Award for Departmental Service and Scholarly Excellence, Department of Spanish, Italian, and Portuguese, Penn State University."
 
- - title: Service, Leadership, and Community Advocacy
+- title: Service, Leadership, and Community Advocacy
   type: time_table
   contents:
     - year: "2022-Present"
@@ -209,7 +209,31 @@
       title: "Practice Talk Coordinator for SIPGSO"
       institution: "Spanish, Italian and Portuguese Graduate Student Organization"
 
-     
-
-
+- title: Skills
+  type: time_table
+  contents:
+    - category: "Professional"
+      items:
+        - "Course Design and Curriculum Development"
+        - "Public Speaking and Instruction"
+        - "Interdisciplinary Research"
+        - "Time Management"
+        - "Leadership and Team Coordination"
+        - "Organization and Event Coordination"
+    - category: "Technical"
+      items:
+        - "Data Analysis"
+        - "Gephi"
+        - "KnightLab Suite of Storytelling Tools"
+        - "ArcGIS StoryMaps"
+        - "Florish"
+        - "XML-TEI"
+        - "GitHub"
+    - category: "Languages"
+      items:
+        - "Spanish (native)"
+        - "English (fluent)"
+        - "Portuguese (advanced)"
+        - "Latin (reading knowledge)"
+        - "Ancient Greek (reading knowledge)"
 
