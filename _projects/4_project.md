@@ -12,6 +12,6 @@ As part of my doctoral dissertation, “Dancing with Literature” explores the 
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/prueba en tonos pastel 1.png
+    img: assets/img/prueba en tonos pastel 1.png
     ---
 
