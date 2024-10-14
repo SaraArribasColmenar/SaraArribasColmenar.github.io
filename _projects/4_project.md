@@ -3,7 +3,7 @@ layout: page
 title: Dancing wih literature:The Social Networks of Shows and Intellectual Circuits in Spain (1911-1933)
 description: a project with gephi
 img: assets/img/prueba en tonos pastel 1.png
-importance: 3
+importance: 1
 category: work
 ---
 
