@@ -163,17 +163,26 @@
 - title: Awards, Fellowships, and Honors
   type: time_table
   contents:
-    - year: 2024
-      items:
-        - "Recipient of Sparks Fellowship, Department of Spanish, Italian, and Portuguese, Penn State University."
-        - "Member of Phi Lambda Beta - The Sociedade Honorária de Língua Portuguesa."
-    - year: 2023
-      items:
-        - "Lyday-Peavler Award for Departmental Service and Scholarly Excellence, Department of Spanish, Italian, and Portuguese, Penn State University."
-        - "Teaching Excellence Award in Spanish, Department of Spanish, Italian, and Portuguese, Penn State University."
-    - year: 2022
-      items:
-        - "The Jesús Díaz Award for Departmental Service and Scholarly Excellence, Department of Spanish, Italian, and Portuguese, Penn State University."
+    - year: "2024"
+      title: "Recipient of Sparks Fellowship"
+      institution: "Department of Spanish, Italian, and Portuguese, Penn State University"
+      description: "Awarded for academic excellence and research contributions in the field of Spanish and Visual Studies."
+    - year: "2024"
+      title: "Member of Phi Lambda Beta"
+      institution: "The Sociedade Honorária de Língua Portuguesa"
+      description: "Recognized as a member of the honor society for Portuguese studies."
+    - year: "2023"
+      title: "Lyday-Peavler Award for Departmental Service and Scholarly Excellence"
+      institution: "Department of Spanish, Italian, and Portuguese, Penn State University"
+      description: "Awarded for exceptional service and scholarly excellence in departmental activities."
+    - year: "2023"
+      title: "Teaching Excellence Award in Spanish"
+      institution: "Department of Spanish, Italian, and Portuguese, Penn State University"
+      description: "Recognized for outstanding teaching performance in Spanish language courses."
+    - year: "2022"
+      title: "The Jesús Díaz Award for Departmental Service and Scholarly Excellence"
+      institution: "Department of Spanish, Italian, and Portuguese, Penn State University"
+      description: "Awarded for service and scholarly contributions within the department."
 
 - title: Service, Leadership, and Community Advocacy
   type: time_table
