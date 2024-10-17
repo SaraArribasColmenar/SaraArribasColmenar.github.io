@@ -33,7 +33,7 @@ Para una presentación clara, la información se organizó en la línea de tiemp
 
 En cuanto a la selección de imágenes, se priorizó incluir aquellas que representaran las puestas en escena originales. En gran medida, esto fue posible gracias al archivo de la Fundación Juan March que posee unos fondos sobre la bailarina Antonia Mercé, aunque actualmente se están haciendo las peticiones de permisos para su uso directo en este proyecto.
 
-![Ejemplo de visualización de piezas](assets/img/Ejemplo%20de%20visualización%20de%20la%20información%20de%20las%20piezas.png)
+![Ejemplo de visualización de piezas](Ejemplo de visualización de la información de las piezas.png)
 
 ### Reflexiones y Conclusiones
 
