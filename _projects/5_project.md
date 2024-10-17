@@ -27,15 +27,13 @@ En primer lugar, para crear la línea temporal se identificaron y seleccionaron 
 
 Estas compañías jugaron un papel crucial en la difusión y desarrollo de las artes escénicas en España, por lo que se decidió incluir las fechas de fundación de estas compañías y una imagen representativa de cada una en la línea de tiempo para contextualizar mejor su impacto.
 
-![Compañía Cómico-Dramática de Gregorio Martínez Sierra](assets/img/Ejemplo de visualziacion de las entradas de las companias.png)
-
 ### Organización de la Información
 
 Para una presentación clara, la información se organizó en la línea de tiempo utilizando celdas de "Group" para dividir las secciones correspondientes a cada compañía, lo que permite evitar repeticiones y organizar mejor la información visual.
 
 En cuanto a la selección de imágenes, se priorizó incluir aquellas que representaran las puestas en escena originales. En gran medida, esto fue posible gracias al archivo de la Fundación Juan March que posee unos fondos sobre la bailarina Antonia Mercé, aunque actualmente se están haciendo las peticiones de permisos para su uso directo en este proyecto.
 
-![Ejemplo de visualización de piezas](assets/img/Ejemplo de visualización de la información de las piezas.png)
+![Ejemplo de visualización de piezas](assets/img/Ejemplo%20de%20visualización%20de%20la%20información%20de%20las%20piezas.png)
 
 ### Reflexiones y Conclusiones
 
