@@ -9,9 +9,9 @@ profile:
   image: sac_perfil.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Spanish, Italian and Portuguese </p>
-    <p>Penn State University</p>
-    <p>Office: 46 Burrowes </p>
+    <p>Department of Modern and Classical Languages and Literatures</p>
+    <p>Christopher Newport University</p>
+    <p>1 Avenue of the Arts </p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts, set to true when blog is active
